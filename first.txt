@@ -1,6 +1,6 @@
 Hello Everyone!
 
 
-I am here to try out Git!,
+I am here to try out Git!, and versions.
 
 Thanks :)
